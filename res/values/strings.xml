@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TakePictureSample</string>
+    <string name="saved_toast">保存しました</string>
+    <string name="failed_toast">失敗しました</string>
+</resources>
